@@ -1,0 +1,167 @@
+:: Start
+[法庭開庭。今天我們要審理的是劉自然被美軍雷諾槍殺的案件。請劉自然的律師開始陳述。->Round1]
+
+:: Round1
+[劉自然的律師提出疑點：雷諾因偷看劉自然妻子洗澡而被劉自然抓包，但未立即逃跑，反而等待劉自然出來並決定先開槍。->JudgeQuestion1A]
+[劉自然的律師提出疑點：雷諾和劉自然是否有過往交往，偷看洗澡可能只是一個幌子？->JudgeQuestion1B]
+
+:: JudgeQuestion1A
+[法官（微微偏袒地看向雷諾）：律師，你對於雷諾等待劉自然出現並決定開槍的情況，如何解釋？或許雷諾有自衛的理由。->DefenderResponse1A]
+[雷諾的律師：確實如此，法官。雷諾當時是在自衛，他感到受到了威脅，不得不開槍。->DefenderResponse1B]
+
+:: JudgeQuestion1B
+[法官（略帶驚慌）：律師，你提到雷諾和劉自然有認識的可能性，這會如何影響案件的判決？->DefenderResponse1C]
+[雷諾的律師：我們必須查清事實，這種指控並無根據。->DefenderResponse1D]
+
+:: DefenderResponse1A
+[劉自然的律師：如果雷諾感到受威脅，為什麼他在被抓包後沒有立即逃跑？這種行為並不符合一個感到威脅的人的反應。相反，他選擇了等待並開槍，這難道不是預謀行為的表現嗎？->Round2]
+
+:: DefenderResponse1B
+[劉自然的律師：雷諾等待並開槍，這難道不是預謀行為的表現嗎？->Round2]
+
+:: DefenderResponse1C
+[劉自然的律師：雷諾是否因此前往案發地點？這是我們必須釐清的問題。->Round2]
+
+:: DefenderResponse1D
+[劉自然的律師：我們將提出證據證明雷諾和劉自然的關係。->Round2]
+
+:: Round2
+[劉自然的律師反擊雷諾律師的自衛主張，當時情況是同時舉槍，而非劉自然先單獨把槍上膛並準備攻擊姿勢。->JudgeQuestion2A]
+[提出現場刑鑑證據，腳步上並沒有驚慌或者逃跑後退或者鬼鬼祟祟的感覺，反而像是計畫好的行動。->JudgeQuestion2B]
+
+:: JudgeQuestion2A
+[法官：這樣的說法是否有確鑿的證據支持？->DefenderResponse2A]
+
+:: JudgeQuestion2B
+[法官（略微緊張）：你有證據證明這一點嗎？->DefenderResponse2B]
+
+:: DefenderResponse2A
+[劉自然的律師：我們有目擊證人和彈道分析，證明雙方是在同時舉槍。->Round3]
+
+:: DefenderResponse2B
+[劉自然的律師：是的，我們有現場的照片和腳步分析報告，顯示雷諾的行動並不像是一個受驚的人的反應。->Round3]
+
+:: Round3
+[劉自然的律師舉出雷諾及劉自然原本舊相識的關係讓整件事情撲朔迷離。->JudgeQuestion3A]
+[分析當日雷諾為何會經過劉自然家。->JudgeQuestion3B]
+
+:: JudgeQuestion3A
+[法官：他們的關係是否真的如此緊密？->DefenderResponse3A]
+
+:: JudgeQuestion3B
+[法官：雷諾為何會在那天經過劉自然家？->DefenderResponse3B]
+
+:: DefenderResponse3A
+[劉自然的律師：我們有證人證明他們確實相識，而且有過糾紛。->Round4]
+
+:: DefenderResponse3B
+[劉自然的律師：根據雷諾的行程，他沒有合理的解釋為何出現在那裡。->Round4]
+
+:: Round4
+[劉自然的律師提出案發前的劉自然得知雷諾販賣軍用違禁品之事，很可能雷諾正要威脅劉自然，卻又在最後選擇直接槍殺。->JudgeQuestion4A]
+[指出雷諾在案發後的行為可疑，似乎在掩蓋什麼。->JudgeQuestion4B]
+
+:: JudgeQuestion4A
+[法官：這些記錄能否證明雷諾有預謀行為？->DefenderResponse4A]
+
+:: JudgeQuestion4B
+[法官：雷諾在案發後的行為如何可疑？->DefenderResponse4B]
+
+:: DefenderResponse4A
+[劉自然的律師：劉自然得知雷諾販賣違禁品的消息，並計劃舉報他。這使雷諾感到受威脅，最終導致這場悲劇。->Round5]
+
+:: DefenderResponse4B
+[劉自然的律師：雷諾在案發後迅速離開現場，且拒絕配合警方調查。->Round5]
+
+:: Round5
+[劉自然的律師質疑雷諾的證詞存在矛盾點，要求重新審查證詞。->JudgeQuestion5A]
+[要求傳喚新的證人上庭作證，提供更多信息。->JudgeQuestion5B]
+
+:: JudgeQuestion5A
+[法官：你認為證詞中的哪些部分存在矛盾？->DefenderResponse5A]
+
+:: JudgeQuestion5B
+[法官：新的證人能提供什麼樣的信息？->DefenderResponse5B]
+
+:: DefenderResponse5A
+[劉自然的律師：雷諾的證詞中有多處時間點和細節不一致，這讓我們對其可信度產生懷疑。->Round6]
+
+:: DefenderResponse5B
+[劉自然的律師：新的證人能夠提供雷諾當天行動的更多細節，幫助我們還原真相。->Round6]
+
+:: Round6
+[劉自然的律師提出進一步的證據，顯示雷諾在案發前曾多次威脅劉自然。->JudgeQuestion6A]
+[指出雷諾在軍中有不良記錄，曾多次涉及暴力事件。->JudgeQuestion6B]
+
+:: JudgeQuestion6A
+[法官：這些威脅是否有證據支持？->DefenderResponse6A]
+
+:: JudgeQuestion6B
+[法官：雷諾的軍中記錄是否能作為本案的參考？->DefenderResponse6B]
+
+:: DefenderResponse6A
+[劉自然的律師：我們有短信和錄音，證明雷諾曾多次威脅劉自然。->Round7]
+
+:: DefenderResponse6B
+[劉自然的律師：雷諾在軍中的不良記錄顯示出他的暴力傾向，這與本案有直接關聯。->Round7]
+
+:: Round7
+[劉自然的律師質疑雷諾在案發當天的行動路線，顯示出其行為的可疑之處。->JudgeQuestion7A]
+[提出雷諾的證詞中存在更多不一致的地方，要求進一步調查。->JudgeQuestion7B]
+
+:: JudgeQuestion7A
+[法官：你認為雷諾的行動路線有何可疑之處？->DefenderResponse7A]
+
+:: JudgeQuestion7B
+[法官：證詞中的不一致之處具體是指什麼？->DefenderResponse7B]
+
+:: DefenderResponse7A
+[劉自然的律師：雷諾的行動路線顯示出他曾繞道，這不符合他所說的路徑。->Round8]
+
+:: DefenderResponse7B
+[劉自然的律師：雷諾在不同場合的證詞中，關於時間和地點的描述有多處不一致。->Round8]
+
+:: Round8
+[劉自然的律師指出雷諾在案發前後的行為異常，試圖掩蓋真相。->JudgeQuestion8A]
+[提出新的證據，顯示雷諾在案發前曾與他人聯繫，似乎在計劃某些事情。->JudgeQuestion8B]
+
+:: JudgeQuestion8A
+[法官：雷諾的行為有何異常之處？->DefenderResponse8A]
+
+:: JudgeQuestion8B
+[法官：新的證據能否證明雷諾的計劃行為？->DefenderResponse8B]
+
+:: DefenderResponse8A
+[劉自然的律師：雷諾在案發後迅速清理現場，並試圖隱藏證據。->Round9]
+
+:: DefenderResponse8B
+[劉自然的律師：我們有通話記錄和短信，顯示雷諾在案發前曾與多人聯繫，這些聯繫顯示出其計劃性。->Round9]
+
+:: Round9
+[劉自然的律師總結案件，強調雷諾的行為表現出預謀性和故意殺人。->JudgeQuestion9A]
+[再次強調雷諾的自衛說法無法成立，要求陪審團做出公正裁決。->JudgeQuestion9B]
+
+:: JudgeQuestion9A
+[法官：你認為雷諾的行為如何表現出預謀性？->DefenderResponse9A]
+
+:: JudgeQuestion9B
+[法官：你認為雷諾的自衛說法無法成立的原因是什麼？->DefenderResponse9B]
+
+:: DefenderResponse9A
+[劉自然的律師：雷諾在案發前後的行為和證據顯示出他有計劃地進行了這次行動，並試圖掩蓋真相。->Round10]
+
+:: DefenderResponse9B
+[劉自然的律師：根據證據，雷諾的自衛說法與現場證據和證人證詞不符。->Round10]
+
+:: Round10
+[法官：陪審團已經做出決定。根據所有提供的證據和證詞，陪審團認為雷諾...->Verdict]
+
+:: Verdict
+[勝訴！陪審團認為雷諾有罪。->Ending1]
+[敗訴。陪審團認為雷諾無罪。->Ending2]
+
+:: Ending1
+[恭喜你，劉自然的律師！你成功說服了法庭，讓雷諾得到了應有的懲罰。]
+
+:: Ending2
+[很遺憾，劉自然的律師。儘管你盡力了，陪審團還是認為雷諾無罪。]
